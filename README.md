@@ -1,5 +1,7 @@
 # LLM/VLM Research RoadMap
 
+<br>
+
 ```
 [Pre-Transformer Background]
    ├─ RNN / LSTM (1997)
@@ -60,3 +62,6 @@
          └─ Video-LLaMA (2023)
 ```
 
+<br>
+
+_Will be continuously updated_
