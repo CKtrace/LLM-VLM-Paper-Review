@@ -9,7 +9,7 @@
    ├─ Word2Vec (2013), GloVe (2014)
    ├─ Bahdanau Attention (2015)
    ├─ Luong Attention (2015)
-   └─ ConvS2S (2017, FAIR)
+   └─ ConvS2S (2017)
 
 
 
@@ -53,11 +53,11 @@
    │     └─ EVA-CLIP (2024)
    │
    └─ [Modern VLM]
-         ├─ Flamingo (2022, DeepMind)
+         ├─ Flamingo (2022)
          ├─ PaLI (2022, Google)
          ├─ Kosmos-1 (2023, Microsoft)
          ├─ GPT-4V (2023, OpenAI)
-         ├─ Gemini 1.5 (2024, DeepMind)
+         ├─ Gemini 1.5 (2024)
          ├─ MM1 (2024, Meta)
          └─ Video-LLaMA (2023)
 ```
