@@ -4,7 +4,7 @@
 
 ```
 [Pre-Transformer Background]
-   ├─ RNN / LSTM (1997)
+   ├─ RNN/LSTM
    ├─ Seq2Seq (Sutskever, 2014)
    ├─ Word2Vec (2013), GloVe (2014)
    ├─ Bahdanau Attention (2015)
@@ -65,3 +65,13 @@
 <br>
 
 _Will be continuously updated_
+
+<br>
+
+## Pre-Transformer Background
+
+<br>
+
+|Title|Remark|Publisher|Year|
+|:---:|:---:|:---:|:---:|
+|[Long short-term memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
