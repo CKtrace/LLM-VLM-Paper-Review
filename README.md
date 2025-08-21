@@ -74,4 +74,4 @@ _Will be continuously updated_
 
 |Title|Remark|Publisher|Year|
 |:---:|:---:|:---:|:---:|
-|[Long short-term memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
+|[Long Short-Term Memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
