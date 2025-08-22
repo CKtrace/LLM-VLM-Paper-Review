@@ -74,4 +74,5 @@ _Will be continuously updated_
 
 |Title|Remark|Publisher|Year|
 |:---:|:---:|:---:|:---:|
-|[Long Short-Term Memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
+|[Finding Structure in Time](https://cktrace.tistory.com/65)|LSTM|MIT Press|1990|
+|[Long Short-Term Memory](https://cktrace.tistory.com/64)|SRN(RNN)|Cognitive Science|1997|
