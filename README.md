@@ -5,9 +5,10 @@
 ```
 [Pre-Transformer Background]
    ├─ RNN/LSTM
+   ├─ Word2Vec (2013) 
    ├─ RNN/LSTM With Dropout (2014)
-   ├─ Seq2Seq (Sutskever, 2014)
-   ├─ Word2Vec (2013), GloVe (2014)
+   ├─ Seq2Seq (2014)
+   ├─ GloVe (2014)
    ├─ Bahdanau Attention (2015)
    ├─ Luong Attention (2015)
    └─ ConvS2S (2017)
@@ -77,4 +78,5 @@ _Will be continuously updated_
 |:---:|:---:|:---:|:---:|
 |[Finding Structure in Time](https://cktrace.tistory.com/65)|SRN(RNN)|Cognitive Science|1990|
 |[Long Short-Term Memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
+|[Distributed Representations of Words and Phrases and their Compositionality](https://cktrace.tistory.com/67)|Word2Vec(Skip-gram, CBOW)|ANIPS|2013|
 |[Recurrent Neural Network Regularization](https://cktrace.tistory.com/66)|RNN/LSTM with Dropout|arXiv|2014|
