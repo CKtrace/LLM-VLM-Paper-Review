@@ -9,6 +9,7 @@
    ├─ RNN/LSTM With Dropout (2014)
    ├─ Seq2Seq (2014)
    ├─ Bahdanau Attention (2015)
+   ├─ Google’s Neural Machine Translation(GNMT) (2016)
    └─ ConvS2S (2017)
 
 
