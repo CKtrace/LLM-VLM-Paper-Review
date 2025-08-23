@@ -8,9 +8,7 @@
    ├─ Word2Vec (2013) 
    ├─ RNN/LSTM With Dropout (2014)
    ├─ Seq2Seq (2014)
-   ├─ GloVe (2014)
    ├─ Bahdanau Attention (2015)
-   ├─ Luong Attention (2015)
    └─ ConvS2S (2017)
 
 
