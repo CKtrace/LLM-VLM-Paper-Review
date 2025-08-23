@@ -76,3 +76,4 @@ _Will be continuously updated_
 |:---:|:---:|:---:|:---:|
 |[Finding Structure in Time](https://cktrace.tistory.com/65)|SRN(RNN)|Cognitive Science|1990|
 |[Long Short-Term Memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
+|[Recurrent Neural Network Regularization](https://cktrace.tistory.com/66)|RNN/LSTM with Dropout|arXiv|2014|
