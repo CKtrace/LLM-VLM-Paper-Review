@@ -5,6 +5,7 @@
 ```
 [Pre-Transformer Background]
    ├─ RNN/LSTM
+   ├─ RNN/LSTM With Dropout (2014)
    ├─ Seq2Seq (Sutskever, 2014)
    ├─ Word2Vec (2013), GloVe (2014)
    ├─ Bahdanau Attention (2015)
