@@ -80,3 +80,4 @@ _Will be continuously updated_
 |[Long Short-Term Memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
 |[Distributed Representations of Words and Phrases and their Compositionality](https://cktrace.tistory.com/67)|Word2Vec(Skip-gram, CBOW)|ANIPS|2013|
 |[Recurrent Neural Network Regularization](https://cktrace.tistory.com/66)|RNN/LSTM with Dropout|arXiv|2014|
+|[Sequence to Sequence Learning with Neural Networks](https://cktrace.tistory.com/68)|Seq2Seq|NIPS|2014|
