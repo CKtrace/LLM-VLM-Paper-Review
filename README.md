@@ -74,7 +74,7 @@ _Will be continuously updated_
 <br>
 
 |Title|Remark|Publisher|Year|
-|:---:|:---:|:---:|:---:|
+|:---|:---:|:---:|:---:|
 |[Finding Structure in Time](https://cktrace.tistory.com/65)|SRN(RNN)|Cognitive Science|1990|
 |[Long Short-Term Memory](https://cktrace.tistory.com/64)|LSTM|MIT Press|1997|
 |[Distributed Representations of Words and Phrases and their Compositionality](https://cktrace.tistory.com/67)|Word2Vec(Skip-gram, CBOW)|ANIPS|2013|
