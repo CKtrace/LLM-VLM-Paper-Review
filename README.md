@@ -83,3 +83,12 @@ _Will be continuously updated_
 |[Neural Machine Translation by Jointly Learning to Align and Translate]()|Bahdanau Attention|ICLR|2015|
 |[Google’s Neural Machine Translation]()|GMNT|arXiv|2016|
 |[Convolutional Sequence to Sequence Learning]()|ConvS2S|arXiv|2017|
+
+<br>
+
+## Transformer & Expansions
+
+<br>
+
+|Title|Remark|Publisher|Year|
+|:---|:---:|:---:|:---:|
