@@ -80,7 +80,7 @@ _Will be continuously updated_
 |[Distributed Representations of Words and Phrases and their Compositionality](https://cktrace.tistory.com/67)|Word2Vec(Skip-gram, CBOW)|ANIPS|2013|
 |[Recurrent Neural Network Regularization](https://cktrace.tistory.com/66)|RNN/LSTM with Dropout|arXiv|2014|
 |[Sequence to Sequence Learning with Neural Networks](https://cktrace.tistory.com/68)|Seq2Seq|NIPS|2014|
-|[Neural Machine Translation by Jointly Learning to Align and Translate]()|Bahdanau Attention|ICLR|2015|
+|[Neural Machine Translation by Jointly Learning to Align and Translate](https://cktrace.tistory.com/69)|Bahdanau Attention|ICLR|2015|
 |[Google’s Neural Machine Translation]()|GMNT|arXiv|2016|
 |[Convolutional Sequence to Sequence Learning]()|ConvS2S|arXiv|2017|
 
