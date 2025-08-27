@@ -92,3 +92,4 @@ _Will be continuously updated_
 |:---|:---:|:---:|:---:|
 |[Attention Is All You Need](https://cktrace.tistory.com/71)|Transformer|NIPS|2017|
 |[Improving Language Understanding by Generative Pre-Training](https://cktrace.tistory.com/72)|GPT-1|OpenAI|2018|
+|[Language Models are Unsupervised Multitask Learners](https://cktrace.tistory.com/73)|GPT-2|OpenAI|2019|
