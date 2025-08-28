@@ -60,6 +60,14 @@
          ├─ Gemini 1.5 (2024)
          ├─ MM1 (2024, Meta)
          └─ Video-LLaMA (2023)
+
+
+
+[Supplementary Reading]
+   └─ [RAG]
+        ├─ Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)
+        └─ Retrieval-Augmented Generation for Large Language Models: A Survey (2023)
+
 ```
 
 <br>
@@ -94,3 +102,13 @@ _Will be continuously updated_
 |[Improving Language Understanding by Generative Pre-Training](https://cktrace.tistory.com/72)|GPT-1|OpenAI|2018|
 |[Language Models are Unsupervised Multitask Learners](https://cktrace.tistory.com/73)|GPT-2|OpenAI|2019|
 |[Language Models are Few-Shot Learners](https://cktrace.tistory.com/74)|GPT-3|OpenAI|2020|
+
+
+<br>
+
+## Supplementary Reading
+
+|Title|Remark|Publisher|Year|
+|:---|:---:|:---:|:---:|
+|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]()|RAG|NIPS|2020|
+|[Retrieval-Augmented Generation for Large Language Models: A Survey]()|Improvement of RAG|arXiv|2023|
