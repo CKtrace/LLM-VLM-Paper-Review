@@ -110,5 +110,5 @@ _Will be continuously updated_
 
 |Title|Remark|Publisher|Year|
 |:---|:---:|:---:|:---:|
-|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]()|RAG|NIPS|2020|
+|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://cktrace.tistory.com/75)|RAG|NIPS|2020|
 |[Retrieval-Augmented Generation for Large Language Models: A Survey]()|Improvement of RAG|arXiv|2023|
