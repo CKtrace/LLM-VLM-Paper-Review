@@ -101,7 +101,7 @@ _Will be continuously updated_
 |[Attention Is All You Need](https://cktrace.tistory.com/71)|Transformer|NIPS|2017|
 |[Improving Language Understanding by Generative Pre-Training](https://cktrace.tistory.com/72)|GPT-1|OpenAI|2018|
 |[Language Models are Unsupervised Multitask Learners](https://cktrace.tistory.com/73)|GPT-2|OpenAI|2019|
-|[Scaling Laws for Neural Language Models]()|Scaling Laws|arXiv|2020|
+|[Scaling Laws for Neural Language Models](https://cktrace.tistory.com/77)|Scaling Laws|arXiv|2020|
 |[Language Models are Few-Shot Learners](https://cktrace.tistory.com/74)|GPT-3|OpenAI|2020|
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding]()|BERT|NAACL|2019|
 |[RoBERTa: A Robustly Optimized BERT Pretraining Approach]()|RoBERTa|arXiv|2019|
