@@ -103,7 +103,7 @@ _Will be continuously updated_
 |[Language Models are Unsupervised Multitask Learners](https://cktrace.tistory.com/73)|GPT-2|OpenAI|2019|
 |[Scaling Laws for Neural Language Models](https://cktrace.tistory.com/77)|Scaling Laws|arXiv|2020|
 |[Language Models are Few-Shot Learners](https://cktrace.tistory.com/74)|GPT-3|OpenAI|2020|
-|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding]()|BERT|NAACL|2019|
+|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://cktrace.tistory.com/78)|BERT|NAACL|2019|
 |[RoBERTa: A Robustly Optimized BERT Pretraining Approach]()|RoBERTa|arXiv|2019|
 |[ALBERT: A Lite BERT for Self-supervised Learning of Language Representations]()|ALBERT|ICLR|2019|
 |[XLNet: Generalized Autoregressive Pretraining for Language Understanding]()|XLNet|NIPS|2019|
