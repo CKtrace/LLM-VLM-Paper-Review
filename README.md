@@ -18,7 +18,7 @@
         ├─ [LLM Branch]
         │     ├─ GPT-1 (2018) → GPT-2 (2019) → GPT-3 (2020)
         │     │     └─ InstructGPT (2022, RLHF) → GPT-4 (2023)
-        │     ├─ BERT (2019) → RoBERTa (2019) → ALBERT (2019) → XLNet (2019)
+        │     ├─ BERT (2019) → RoBERTa (2019) → ALBERT (2020) → XLNet (2019)
         │     ├─ T5 (2019)
         │     ├─ LLaMA (2023) → Q-LoRA (2023)
         │     └─ Scaling Laws (2020), Self-Instruct (2022), Constitutional AI (2023)
@@ -105,8 +105,8 @@ _Will be continuously updated_
 |[Language Models are Few-Shot Learners](https://cktrace.tistory.com/74)|GPT-3|OpenAI|2020|
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://cktrace.tistory.com/78)|BERT|NAACL|2019|
 |[RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://cktrace.tistory.com/79)|RoBERTa|arXiv|2019|
-|[ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://cktrace.tistory.com/80)|ALBERT|ICLR|2019|
-|[XLNet: Generalized Autoregressive Pretraining for Language Understanding]()|XLNet|NIPS|2019|
+|[ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://cktrace.tistory.com/80)|ALBERT|ICLR|2020|
+|[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://cktrace.tistory.com/81)|XLNet|NIPS|2019|
 
 <br>
 
