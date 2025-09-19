@@ -123,5 +123,6 @@ _Will be continuously updated_
 |Title|Remark|Publisher|Year|
 |:---|:---:|:---:|:---:|
 |[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://cktrace.tistory.com/75)|RAG|NIPS|2020|
-|[Retrieval-Augmented Generation for Large Language Models: A Survey](https://cktrace.tistory.com/76)|Improvement of RAG|arXiv|2023|
+|[Retrieval-Augmented Generation for Large Language Models: A Survey](https://cktrace.tistory.com/76)|Improvement Flow of RAG|arXiv|2023|
+|[Text2SQL is Not Enough: Unifying AI and Databases with TAG](https://cktrace.tistory.com/84)|TAG|arXiv|2024|
 |[Don’t Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](https://cktrace.tistory.com/82)|CAG|WWW|2025|
